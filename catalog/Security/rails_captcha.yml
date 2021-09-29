@@ -1,5 +1,5 @@
 name: Rails Captcha
-description: 
+description: Captchas help to establish that a user is human to protect websites from bots and spam by presenting challenges that are hard to solve for computers
 projects:
   - acts_as_textcaptcha
   - captcha

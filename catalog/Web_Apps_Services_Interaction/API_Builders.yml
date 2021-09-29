@@ -6,15 +6,22 @@ projects:
   - api-versions
   - apiary
   - bldr
+  - blueprinter
+  - cache_crispies
   - fast_jsonapi
   - grape
+  - grapethor
+  - jb
   - jbuilder
+  - jsonapi-serializer
+  - mutils
   - nativeson
   - rabl
   - representable
   - roar
   - rocket_pants
   - roy
+  - simple_ams
   - surrealist
   - versioncake
   - versionist

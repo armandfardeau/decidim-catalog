@@ -2,17 +2,19 @@ name: Content Management
 description:
 projects:
   - alchemy_cms
+  - binda
   - browsercms
   - cantierecreativo/railsyardcms
   - casein
   - comfortable_mexican_sofa
   - copy
+  - denny/ShinyCMS-ruby
   - DigitPaint/skyline
   - drg_cms
   - fae-rails
   - fullstack-cms
   - knewter/ansuz
-  - locomotive_cms
+  - locomotivecms
   - lolita
   - manageable_content
   - nesta
@@ -24,6 +26,7 @@ projects:
   - refinerycms
   - refinerycms-menus
   - regulate
+  - sitepress-rails
   - snippr
   - spina
   - static

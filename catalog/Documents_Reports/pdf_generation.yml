@@ -8,9 +8,11 @@ projects:
   - doc_raptor
   - gambas
   - gimli
+  - grover
   - hexapdf
   - invoice_printer
   - kitabu
+  - origami
   - pdfkit
   - poppler
   - prawn

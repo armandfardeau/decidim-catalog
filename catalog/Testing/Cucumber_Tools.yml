@@ -1,6 +1,7 @@
 name: Cucumber Tools
 description: 
 projects:
+  - chutney
   - cql
   - cucover
   - cucumber-in-the-yard
@@ -10,6 +11,7 @@ projects:
   - cucumber-sinatra
   - cucumberator
   - cuke_cataloger
+  - cuke_linter
   - cuke_modeler
   - cuke_sniffer
   - cukesparse

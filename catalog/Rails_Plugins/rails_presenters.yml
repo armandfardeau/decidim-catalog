@@ -7,12 +7,15 @@ projects:
   - apotomo
   - cells
   - classic_presenter
+  - dekorator
   - delegate_presenter
   - display_case
   - draper
   - garnish
   - komponent
   - meta_presenter
+  - oprah
+  - pres
   - rails_presenter
   - resubject
   - view_models

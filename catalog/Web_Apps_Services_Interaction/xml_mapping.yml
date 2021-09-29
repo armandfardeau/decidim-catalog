@@ -4,9 +4,12 @@ projects:
   - data_active
   - gyoku
   - happymapper
+  - lazy-sax-machine
   - nokogiri-happymapper
   - nori
+  - ox
   - representative
+  - rexml
   - roxml
   - sax-machine
   - sax_stream

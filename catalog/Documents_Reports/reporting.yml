@@ -1,11 +1,14 @@
 name: Reports & Spreadsheets
-description:
+description: Tools for parsing spreadsheets and creating reports in multiple formats.
 projects:
   - activeadmin-axlsx
   - acts_as_xlsx
-  - axlsx 
+  - axlsx
   - axlsx_rails
+  - caxlsx
+  - caxlsx_rails
   - compendium
+  - creek
   - dossier
   - dynamic_reports
   - excel_rails
@@ -18,6 +21,7 @@ projects:
   - oxcelix
   - remote_table
   - reportable
+  - reports_kit
   - robust_excel_ole
   - rods
   - roo
@@ -37,3 +41,5 @@ projects:
   - wrap_excel
   - write_xlsx
   - write_xlsx_rails
+  - xlsx_drone
+  - xsv

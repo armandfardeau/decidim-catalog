@@ -1,6 +1,8 @@
 name: App Instrumentation
 description:
 projects:
+  - appoptics_apm
+  - appsignal
   - better_errors
   - bullet
   - dashing
@@ -13,8 +15,8 @@ projects:
   - metriks
   - metriksd
   - newrelic_rpm
+  - nunes
   - peek
-  - query_trace
   - rack-bug
   - rack-insight
   - rackamole
@@ -25,3 +27,4 @@ projects:
   - scout_apm
   - slowgrowl
   - system-metrics
+  - yabeda

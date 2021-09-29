@@ -5,6 +5,7 @@ projects:
   - bugsnag
   - errbit/errbit
   - exception_engine
+  - exception_hunter
   - exception_notification
   - exceptional
   - honeybadger
@@ -13,4 +14,5 @@ projects:
   - rails_exception_handler
   - raygun4ruby
   - rollbar
+  - sentry-raven
   - toadhopper

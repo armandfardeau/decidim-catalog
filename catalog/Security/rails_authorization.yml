@@ -10,7 +10,9 @@ projects:
   - aegis
   - allowy
   - authority
+  - authz
   - baldwindavid/padlock_authorization
+  - banken
   - canable
   - canard
   - cancan
@@ -20,7 +22,9 @@ projects:
   - cream
   - declarative_authorization
   - easy_roles
+  - moat
   - moulin_rouge
+  - permisi
   - pundit
   - rails-auth
   - rend-acl

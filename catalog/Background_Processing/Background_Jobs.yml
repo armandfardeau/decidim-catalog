@@ -15,10 +15,12 @@ projects:
   - frenzy_bunnies
   - girl_friday
   - gnufied/backgroundrb
+  - good_job
   - jnstq/job_fu
   - job_reactor
   - kr/beanstalkd
   - later
+  - lowkiq
   - navvy
   - ncr/background-fu
   - qu
@@ -29,10 +31,12 @@ projects:
   - resque
   - resque-mongo
   - rock-queue
+  - rocketjob
   - runner
   - seanohalpin/smqueue
   - shoryuken
   - sidekiq
+  - sneakers
   - stalker
   - starling
   - sucker_punch

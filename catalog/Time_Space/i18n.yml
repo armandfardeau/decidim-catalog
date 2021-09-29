@@ -1,6 +1,7 @@
 name: I18n
 description: 
 projects:
+  - accept_language
   - activerecord_translatable
   - ai/r18n
   - c3po
@@ -25,6 +26,7 @@ projects:
   - it
   - locale_detector
   - localeapp
+  - mobility
   - model_translations
   - mongo-i18n
   - mongoid_translate
@@ -42,6 +44,7 @@ projects:
   - ready_for_i18n
   - route_translator
   - talk_like_a_pirate
+  - tater
   - to_lang
   - tr8n
   - traduction

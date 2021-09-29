@@ -1,4 +1,4 @@
-# Ruby Toolbox Catalog [![Build Status](https://travis-ci.org/rubytoolbox/catalog.svg?branch=master)](https://travis-ci.org/rubytoolbox/catalog)
+# Ruby Toolbox Catalog [![CI](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml)
 
 Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
 
@@ -41,7 +41,7 @@ Each `category.yml` currently contains:
 
 * `name` (string, required): Human display name of the category name
 * `description` (string, optional): A (markdown-formatted) category description
-* `projects` (array of strings in alphabetical order, required): The list of projects to list in
+* `projects` (array of strings in case-insensitive alphabetical order, required): The list of projects to list in
   that category. For rubygems, this is the plain gem name, for github repos it's
   the full repo slug (`github_user/repo_name`). Projects can be listed in multiple
   categories.

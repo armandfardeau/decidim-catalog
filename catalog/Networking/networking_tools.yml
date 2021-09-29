@@ -1,6 +1,17 @@
 name: Networking Tools
-description: 
+description:
 projects:
   - ipaddress
   - macker
   - maxminddb
+  - net-ping
+  - net-scp
+  - net-sftp
+  - net-ssh
+  - net-ssh-cli
+  - netsnmp
+  - oxidized
+  - packetfu
+  - packetgen
+  - pcaprub
+  - wifi-wand

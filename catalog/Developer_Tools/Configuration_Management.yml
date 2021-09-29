@@ -26,6 +26,7 @@ projects:
   - dotenv
   - dotenv-rails
   - dynamic_configuration
+  - envied
   - envyable
   - figaro
   - gaston
@@ -42,4 +43,5 @@ projects:
   - store_configurable
   - tty-config
   - user_config
+  - yaml_extend
   - yettings
